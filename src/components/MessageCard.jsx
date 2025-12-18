@@ -13,19 +13,22 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Happyy Birthday meri Chhutankiii🥰😘],
 
-Your personalized birthday message goes here.
+To The most Cutest Sweetest and the Preetiest gurll
+You are the bestt Mera Golgappa!!.
+I know maine tujhe bahot hurt kiya hai and I am
+your worst bhai everr but I wish ye tere liye
+banaye hai ye tumko pasand aaye and I wish Tu wo 
+sb kuch achieve kre jo tujhe chahiye and ha 
+tu hamesha khush reh aur hamesha muskurati reh.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+I love you more than words can say!
+Tu meri duniya hai, meri happiness hai 😘
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Happy Birthday my baby penguin!😋 🎉
 
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— [Yours Tin🤭🥰]`;
 
   // Handle page transitions
   useEffect(() => {
