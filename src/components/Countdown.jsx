@@ -102,6 +102,6 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
     
     </section>
   );
-}
+   
 
 export default Countdown;
