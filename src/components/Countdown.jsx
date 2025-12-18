@@ -98,7 +98,15 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
           prevValue={prevTime.seconds}
         />
       </div>
-
+{/* TEST BUTTON - delete it after testing */}
+{/* <button
+  className="test-button"
+  onClick={onBirthdayReached}
+  title="Skip countdown and test"
+>
+  🎉 Test Celebration
+</button> */}
+{/* END TEST BUTTON */}
     
     </section>
   );
