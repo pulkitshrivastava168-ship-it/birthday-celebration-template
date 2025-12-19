@@ -100,5 +100,6 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
       </div>
     </section>
   );
+}
 
 export default Countdown;
