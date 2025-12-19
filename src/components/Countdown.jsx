@@ -98,11 +98,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
           prevValue={prevTime.seconds}
         />
       </div>
-
-      {/* ⚠️ TEST BUTTON - delete it from here⚠️ */}
-      
-      {/* ⚠️ END TEST BUTTON - DELETE UP TO HERE ⚠️ */} 
     </section>
-      
+  );
 
 export default Countdown;
